@@ -1,0 +1,16 @@
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.exe
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.deps.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.runtimeconfig.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.runtimeconfig.dev.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\ref\Lab2ex3.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\bin\Debug\net5.0\Lab2ex3.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.csproj.AssemblyReference.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.AssemblyInfoInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.AssemblyInfo.cs
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.csproj.CoreCompileInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\ref\Lab2ex3.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab2ex3\Lab2ex3\obj\Debug\net5.0\Lab2ex3.genruntimeconfig.cache
