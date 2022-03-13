@@ -1,0 +1,16 @@
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.csproj.AssemblyReference.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.AssemblyInfoInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.AssemblyInfo.cs
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.csproj.CoreCompileInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.exe
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.deps.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.runtimeconfig.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.runtimeconfig.dev.json
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\ref\Lab2ex1.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\bin\Debug\net5.0\Lab2ex1.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\ref\Lab2ex1.dll
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab2ex1\Lab2ex1\obj\Debug\net5.0\Lab2ex1.genruntimeconfig.cache
