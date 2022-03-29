@@ -76,7 +76,7 @@ namespace Lab3ex2
 
                             //Виведення кількості слів 
 
-                            Console.WriteLine(" Кiлькiсть слiв у файлi: "+ CountLetter(text)+ "\n");
+                            Console.WriteLine(" Кiлькiсть літер у файлi: "+ CountLetter(text)+ "\n");
 
 
                             //Виведення реверсивного тексту в стовпець
