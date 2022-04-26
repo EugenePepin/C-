@@ -23,13 +23,8 @@ namespace Lab4ex2
         }
 
 
-        public Student()
+         public Student()
         {
-            Surname = "Mamamia";
-            Group = 12;
-            Math = 2;
-            TCPP = 3;
-            OOP = 4;
         }
 
         public Student(string surname, int group,  int math, int tcpp, int oop)
